@@ -1,1 +1,1 @@
-# tela_de_login_python
+Fiz essa tela de login utilizando as tecnologias Qt Designer e PyQt5.
