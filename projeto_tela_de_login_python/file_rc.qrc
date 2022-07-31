@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Close_Image">
+    <file>img/icone_X.png</file>
+  </qresource>
+</RCC>
